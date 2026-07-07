@@ -1,5 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="240" height="240" alt="Terminator New Lens logo" src="src/assets/logo.svg" />
+
+# Terminator New Lens
+
+Real-time machine-vision HUD — camera analysis, object detection, and threat assessment with a Terminator-style overlay. Powered by Gemini or a local LM Studio model.
 </div>
 
 # Run and deploy your AI Studio app
