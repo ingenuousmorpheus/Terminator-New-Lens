@@ -1,0 +1,5 @@
+{
+  "name": "Terminator Lens",
+  "description": "A tactical scanner that analyzes people using Gemini AI and COCO-SSD, just like the Terminator.",
+  "requestFramePermissions": ["camera"]
+}
