@@ -489,6 +489,29 @@ This should happen only after the individual products are stable.
 
 ---
 
+---
+
+## TL-14 — AR Glasses / Lens OS
+
+The long-term wearable plan is now documented in `docs/AR_GLASSES_ROADMAP.md`.
+
+Target shell:
+
+```text
+LENS OS
+├─ CINEMATIC
+├─ OBJECTS
+├─ ANGLE
+├─ OCR
+├─ TRANSLATE
+├─ SCENE MEMORY
+└─ LANA
+```
+
+Terminator New Lens owns the camera/HUD/lens runtime. Angle Detector remains source of truth for measurement geometry, Braided Language supplies translation, and Lana OS Link provides the optional assistant/reasoning layer.
+
+**Gate:** when glasses hardware is acquired, integrate its SDK through the shared device abstraction rather than redesigning the project around one vendor.
+
 # Recommended Order
 
 1. TL-00 baseline.
